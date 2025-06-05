@@ -1,0 +1,63 @@
+*{
+    color:aqua
+}
+h1{
+    color:black
+}
+#headingone{
+    color:blueviolet
+}
+#headingtwo{
+    color:brown
+}
+.Rose{
+    color:green
+}
+#box{
+    color:blue
+}
+.heading{
+    color:red
+    font weight: normal
+}
+button{
+   background color:green
+}
+p{
+    text-align:center;
+}
+h1{
+    text-align:center;
+    text-decoration:underline;
+}
+h2{
+    text-align:center;
+    text-decoration:overline;
+}
+h3{
+    text-align:center;
+    text-decoration:line-through;
+}
+a{
+    text-decoration:none;
+}
+#one{
+    font-weight:bolder;
+}
+#two{
+    font-weight:lighter;
+}
+#oone{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+#x{
+    font: size 10px;
+}
+#y{
+    font: size 55px;
+    line: height 50px;
+    text-transform:uppercase;
+}
+#z{
+    font-size:80px;
+}
