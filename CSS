@@ -128,3 +128,7 @@ div {
     width: 100%;
     
 }
+
+#one{
+    background-image: url(daisy.jpg);
+    background-size: cover;
