@@ -208,6 +208,31 @@ li{
     justify-content: center;
     align-items: center;
 }
+
+
+
+div{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    transition: all;
+    transition-duration: 2s;
+    transition-timing-function: steps(5);
+    position:absolute;
+    top:100px;
+    left:100px;
+}
+div:hover{
+    /*background-color: blueviolet;
+    color:azure;
+    font-size: 20px;
+    transform:scaleX(2)*/
+    transform:skew(90deg)
+}
+div:active {
+    background-color: brown;
+}
 .inner{
     background-color:maroon ;
     height:100px;
